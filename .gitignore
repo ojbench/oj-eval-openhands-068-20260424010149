@@ -1,0 +1,8 @@
+
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.a
+*.so
+*.exe
+*.out
